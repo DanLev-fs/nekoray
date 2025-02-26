@@ -1,6 +1,6 @@
 module nekobox_core
 
-go 1.19
+go 1.20
 
 require (
 	github.com/matsuridayo/libneko v1.0.0 // replaced
