@@ -19,7 +19,7 @@ popd
 ####
 
 if [ ! -d "sing-quic" ]; then
-  git clone --no-checkout https://github.com/MatsuriDayo/sing-quic.git
+  git clone --no-checkout https://github.com/DanLev-fs/sing-quic.git
 fi
 pushd sing-quic
 git checkout "$COMMIT_SING_QUIC"
